@@ -1,0 +1,11 @@
+.floating {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    padding-right: 22px;
+    width: 120px;
+    height: 60px;
+    border-radius: 28px;
+    background: #007d79;
+    font-size: 18px;
+}
