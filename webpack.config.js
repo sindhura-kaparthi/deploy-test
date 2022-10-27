@@ -7,7 +7,7 @@ const config = {
   entry: './src/index.tsx',
   output: {
     path: path.join(__dirname, 'dist'),
-    filename: 'bundle.js',
+    filename: 'bundle/bundle.js',
   },
   devServer: {
     port: 3030, // you can change the port
